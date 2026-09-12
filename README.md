@@ -113,12 +113,6 @@ ivandhiem@github:~$ echo $QUOTE
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IVANNNGG&" alt="IVANNNGG" /></p>
 
 
-## 🧠 Neural Activity Vitals
-
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IVANNNGG&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
-</div>
 
 <br>
 <br>
