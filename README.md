@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm IVANDHIEM AL KHOWWAASH</h1>
-<h3 align="center">A passionate Full Stack Developer and software engineer from India.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Game+Developer;Crafting+Code+%26+Pixels" alt="Web Developer and Game Developer" />
+</div>
 
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
