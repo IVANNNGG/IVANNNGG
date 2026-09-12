@@ -128,11 +128,11 @@ ivandhiem@github:~$ echo $QUOTE
   <img src="kanan_top.png" width="24.3%" align="right" />
   
   <br>
-  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom1.mp4" width="250" autoplay loop muted></video>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom1.mp4" width="150" autoplay loop muted></video>
   <br>
-  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom2.mp4" width="250" autoplay loop muted></video>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom2.mp4" width="150" autoplay loop muted></video>
   <br>
-  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom3.mp4" width="250" autoplay loop muted></video>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom3.mp4" width="150" autoplay loop muted></video>
   <br>
   
   <br clear="both"/>
