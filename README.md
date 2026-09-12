@@ -28,9 +28,13 @@
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
 - I'm interested in coding, sleeping, and watching film
 - 🌐 Portfolio: [www.niteshjatin.me](https://www.niteshjatin.me/)
-- My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
 <br clear="both"/>
+
+```text
+ivandhiem@github:~$ echo $QUOTE
+> "It's never too late - never too late to start over, never too late to be happy"
+```
 
 ## 💻 Projects
 
