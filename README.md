@@ -124,9 +124,7 @@ ivandhiem@github:~$ echo $QUOTE
 <br>
 
 <div align="center">
-  <img src="gordenkiri.jpg" width="110" align="left" />
-  <img src="gordenkanan.jpg" width="110" align="right" />
-  <img src="bar.png" />
+  <img src="bottom_scene.png" width="100%" />
 </div>
 <br clear="both"/>
 
