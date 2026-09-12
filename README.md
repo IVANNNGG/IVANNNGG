@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<img src="welcome-header-small.gif" alt="welcome to my github profile">
 	<br>
 	<br>
 </div>
@@ -36,7 +36,7 @@ ivandhiem@github:~$ echo $QUOTE
 > "It's never too late - never too late to start over, never too late to be happy"
 ```
 
-<img src="project.gif" alt="Projects">
+<img src="opt_project.gif" alt="Projects">
 
 ### 🚀 Hobby Projects
 
@@ -112,7 +112,7 @@ ivandhiem@github:~$ echo $QUOTE
 <br>
 
 <div align="center">
-  <img src="bottom_animated.gif" width="100%" />
+  <img src="opt_bottom_animated.gif" width="100%" />
 </div>
 <br clear="both"/>
 
