@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<img src="welcome-header-small.gif" alt="welcome to my github profile">
+	<img src="welcome-header-tiny.gif" alt="welcome to my github profile">
 	<br>
 	<br>
 </div>
