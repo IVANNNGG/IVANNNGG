@@ -124,7 +124,19 @@ ivandhiem@github:~$ echo $QUOTE
 <br>
 
 <div align="center">
-  <img src="bottom_scene.png" width="100%" />
+  <img src="gordenkiri.jpg" width="110" align="left" />
+  <img src="gordenkanan.jpg" width="110" align="right" />
+  
+  <br>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom1.mp4" width="400" autoplay loop muted></video>
+  <br>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom2.mp4" width="400" autoplay loop muted></video>
+  <br>
+  <video src="https://github.com/IVANNNGG/IVANNNGG/raw/main/kolom3.mp4" width="400" autoplay loop muted></video>
+  <br>
+  <br>
+  
+  <img src="bar.png" width="400" />
 </div>
 <br clear="both"/>
 
