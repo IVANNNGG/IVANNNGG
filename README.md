@@ -21,7 +21,7 @@
 ## 🖐️ About Me
 
 
-- My full name is **Ivandhiem al Khowwaash** <img src="kucing.png" width="200" align="right"/>
+- My full name is **Ivandhiem al Khowwaash** <img src="kucing.png" width="120" align="right"/>
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
 - I'm interested in coding, sleeping, and watching film
