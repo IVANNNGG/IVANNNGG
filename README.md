@@ -106,12 +106,6 @@ ivandhiem@github:~$ echo $QUOTE
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IVANNNGG/IVANNNGG/output/pacman-contribution-graph.svg">
 </picture>
 
-##
-> 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas in cloud computing.._
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IVANNNGG&" alt="IVANNNGG" /></p>
-
 
 
 <br>
