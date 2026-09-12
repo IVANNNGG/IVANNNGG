@@ -97,8 +97,8 @@ ivandhiem@github:~$ echo $QUOTE
 
 
 <div align="center">
-  <img src="gordenkiri.jpg" width="150" align="left" />
-  <img src="gordenkanan.jpg" width="150" align="right" />
+  <img src="gordenkiri.jpg" width="110" align="left" />
+  <img src="gordenkanan.jpg" width="110" align="right" />
   <h2>🛠️ Tech Stack & Tools</h2>
   <br>
   <p>
