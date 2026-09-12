@@ -22,19 +22,13 @@
 
 ## 🖐️ About Me
 
-<img src="kucing.png" width="120" align="right"/>
 
-```text
-ivandhiem@github:~$ whoami
-
-> Name       : Ivandhiem al Khowwaash
-> Major      : Full-stack Development
-> Focus      : Google Cloud Platform (GCP)
-> Interests  : Coding, sleeping, and watching films
-> Portfolio  : www.niteshjatin.me
-> Quote      : "It's never too late - never too late to start over, 
-               never too late to be happy"
-```
+- My full name is **Ivandhiem al Khowwaash** <img src="kucing.png" width="120" align="right"/>
+- My major is **Full-stack Development**
+- Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
+- I'm interested in coding, sleeping, and watching film
+- 🌐 Portfolio: [www.niteshjatin.me](https://www.niteshjatin.me/)
+- My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
 <br clear="both"/>
 
