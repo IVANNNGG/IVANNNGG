@@ -25,7 +25,6 @@
 - My major is **Full-stack Development**
 - Primary Focus: **Google Cloud Platform (GCP)**—designing scalable and secure architectures.
 - I'm interested in coding, sleeping, and watching film
-- 🌐 Portfolio: [www.niteshjatin.me](https://www.niteshjatin.me/)
 
 <br clear="both"/>
 
